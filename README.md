@@ -1,5 +1,5 @@
-# BK9201 Multi-Range DC Power Supply
-Example Code Created For the BK9201 Multi-Range DC Power Supply
+# BK9200 Series Power Supplies
+Example Code Created For the BK9200 Series Power Supplies: 9201, 9202, 9205, 9206
 
 ### BK9201_Basic_List_Example
 This file is written in Python 3.

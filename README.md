@@ -18,8 +18,6 @@ BK9201_Basic_List_Example is example code that covers the following:
 - Repeating a List
 
 BK9201_Example_Code is example code that covers the following:
-This file is written in Python 3.
-It covers the following
   - Enabling/Disabling Output
   - Remote Mode/Local Mode
   - Setting Current and Voltage Levels
